@@ -1,1 +1,30 @@
+Scenario: Searching for "prowly" in Google.com and filtering by categories.
 
+#######################
+#ID1
+Title: Perform a "prowly" search in the "All" category and verify the diversity of content.
+
+Steps:
+a. Navigate to google.com.
+b. Enter "prowly" in the search bar.
+c. Click on the "All" category to filter the results.
+
+Expected Result:
+The search results should include a diverse range of content types, such as web pages, articles, images, videos, and other formats.
+The content should not be limited to a specific category, providing a comprehensive view of information related to "prowly."
+
+#######################
+#ID2
+Perform a "prowly" search in the "News" category and verify the diversity of content.
+
+Steps:
+a. Go to google.com.
+b. Enter "prowly" in the search bar.
+c. Click on the "News" category to filter the results.
+
+Expected Result:
+The search results should primarily consist of recent news articles and reports related to "prowly."
+
+#######################
+#ID3
+Perform a "prowly" search in the "Video" category and verify the diversity of content.
