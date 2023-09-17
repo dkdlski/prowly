@@ -15,7 +15,7 @@ The content should not be limited to a specific category, providing a comprehens
 
 #######################
 #ID2
-Perform a "prowly" search in the "News" category and verify the diversity of content.
+Title: Perform a "prowly" search in the "News" category and verify the diversity of content.
 
 Steps:
 a. Go to google.com.
@@ -27,4 +27,13 @@ The search results should primarily consist of recent news articles and reports 
 
 #######################
 #ID3
-Perform a "prowly" search in the "Video" category and verify the diversity of content.
+Title: Perform a "prowly" search in the "Video" category and verify the diversity of content.
+
+Steps:
+a. Open google.com.
+b. Type "prowly" in the search bar.
+c. Select the "Video" category to filter the results.
+
+Expected Result:
+The search results should predominantly include video content related to "prowly."
+Videos should vary in terms of source, content, and popularity, allowing users to explore different aspects of "prowly" through videos.
