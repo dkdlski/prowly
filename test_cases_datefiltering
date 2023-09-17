@@ -1,1 +1,44 @@
+Scenario: Searching for "prowly" in Google.com and filtering by date.
 
+#######################
+#ID1
+    Title: Searching for "prowly" with date filtering for the last month.
+
+Steps:
+    a. Go to google.com.
+    b. Enter "prowly" in the search bar.
+    c. Click on "Tools" under the search bar.
+    d. In the "Any time" dropdown, select "Past month."
+
+Expected Result:
+    Search results should include content related to "prowly" that was published or updated within the last month.
+
+#######################
+#ID2
+    Title: Searching for "prowly" with date filtering for the last year.
+
+Steps:
+    a. Go to google.com.
+    b. Enter "prowly" in the search bar.
+    c. Click on "Tools" below the search bar.
+    d. In the "Any time" dropdown, select "Past year."
+
+Expected Result:
+    Search results should display content associated with "prowly" that has been published or updated within the last year.
+    Information older than a year should be excluded from the search results.
+
+#######################
+
+#ID3
+    Title: Searching for "prowly" with custom date range filtering
+
+Steps:
+    a. Go to google.com.
+    b. Enter "prowly" into the search bar.
+    c. Click on "Tools" located beneath the search bar.
+    d. Select "Custom range" from the "Any time" dropdown.
+    e. Specify a custom date range, e.g., from January 1, 2022, to December 31, 2022.
+
+Expected Result:
+    Search results should only include content related to "prowly" that falls within the specified custom date range (in this case, from January 1, 2022, to December 31, 2022).
+    Any information outside of this date range should not be present in the results.
